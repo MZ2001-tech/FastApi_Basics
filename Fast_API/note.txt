@@ -1,1 +1,0 @@
-emergency cli = cd c:/Desktop/Projects/Python_basic_fullStack; uvicorn Fast_API.main:app --reload
